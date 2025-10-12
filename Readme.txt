@@ -1,1 +1,0 @@
-Este repositorio servirá para subir lo relacionado con el proyecto de SPA, su despliegue para cambios con ClickOne

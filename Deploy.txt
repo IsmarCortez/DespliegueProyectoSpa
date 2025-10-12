@@ -1,0 +1,5 @@
+# Trata todos los archivos .deploy como binarios
+*.deploy binary
+*.application binary
+*.manifest binary
+setup.exe binary
